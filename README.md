@@ -3,9 +3,6 @@
 
 # Object-Oriented-Programming-Lab
 
-![](https://img.shields.io/badge/Gaurav-Ghati-red)
-![](https://img.shields.io/github/languages/top/dipak-kumawat/Object-Oriented-Programming-Lab)
-![](https://img.shields.io/github/last-commit/dipak-kumawat/Object-Oriented-Programming-Lab)
 
 # 1) CONSTRUCTOR AND DESTRUCTOR
 	TITLE: WEATHER REPORT
