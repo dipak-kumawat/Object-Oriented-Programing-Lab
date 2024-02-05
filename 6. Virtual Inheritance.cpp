@@ -1,9 +1,9 @@
 /*
 =========================================================================================
 Assignment : INHERITANCE USING VIRTUAL FUNCTION
-Name : Gaurav Ghati
-class : SE 10
-Batch : F 10
+Name : Dipak Kumawat
+class : FYMCA
+Batch : B
 
 Problem Statement :
 Create a base class shape with two double type values and member functions to
