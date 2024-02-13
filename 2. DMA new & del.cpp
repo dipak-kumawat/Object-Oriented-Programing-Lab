@@ -4,6 +4,7 @@ Assignment : DYNAMIC MEMORY ALLOCATION USING NEW AND DELETE OPERATOR
 Name : Dipak Kumawat
 class : FYMCA
 Batch : B
+Roll No : 39
 
 Problem Statement : 
 	A Book shop maintains the inventory of books that are being sold at the shop. The list includes details such as title, author, publisher, price and available stock. Write a program in C++ which will have a class called books with suitable member

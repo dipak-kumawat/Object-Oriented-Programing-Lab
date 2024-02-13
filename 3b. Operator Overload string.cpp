@@ -1,9 +1,10 @@
 /*
 =========================================================================================
 Assignment : OPERATOR OVERLOADING (Extra Assignment)
-Name : Gaurav Ghati
-class : SE 10
-Batch : F 10
+Name : Dipak Kumawat
+class : FYMCA
+Batch : B
+Roll No : 39
 
 Problem Statement :
 	Write a C++ program to perform String operations using Operator Overloading
